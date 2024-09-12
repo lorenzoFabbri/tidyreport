@@ -1,3 +1,4 @@
+# Mine
 inst/doc
 settings.json
 renv/
@@ -53,9 +54,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# pkgdown site
-docs/
 
 # translation temp files
 po/*~
