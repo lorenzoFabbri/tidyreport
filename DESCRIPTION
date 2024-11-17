@@ -11,4 +11,7 @@ URL: https://lorenzofabbri.github.io/tidyreport/
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports: 
-    data.table
+    data.table,
+    modelsummary,
+    tinyplot,
+    tinytable
